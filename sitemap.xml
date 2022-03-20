@@ -2,8 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kemilii.com/</loc>
+    <loc>https://kemilii.github.io/blogs/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kemilii.com/tags/</loc>
+    <loc>https://kemilii.github.io/blogs/hello/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kemilii.github.io/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kemilii.github.io/tags/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kemilii.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kemilii</title>
-    <link>https://kemilii.github.io/</link>
-    <description>Recent content on Kemilii</description>
+    <title>Blogs on Kemilii</title>
+    <link>https://kemilii.github.io/blogs/</link>
+    <description>Recent content in Blogs on Kemilii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kemilii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kemilii.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello kemilii&#39;s Website/个人博客搭建经验分享</title>
       <link>https://kemilii.github.io/blogs/hello/</link>
